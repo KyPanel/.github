@@ -3,6 +3,10 @@ KyPanel runs shared and reseller hosting on AlmaLinux, Rocky Linux, CloudLinux a
 ### Repositories
 
 * [whmcs-module](https://github.com/KyPanel/whmcs-module): provisioning module for WHMCS
+* [blesta-module](https://github.com/KyPanel/blesta-module): provisioning module for Blesta
+* [fossbilling-module](https://github.com/KyPanel/fossbilling-module): server manager for FOSSBilling
+* [paymenter-module](https://github.com/KyPanel/paymenter-module): server extension for Paymenter
+* [clientexec-module](https://github.com/KyPanel/clientexec-module): server plugin for Clientexec
 
 ### Links
 
