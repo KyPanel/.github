@@ -1,5 +1,7 @@
 KyPanel runs shared and reseller hosting on AlmaLinux, Rocky Linux, CloudLinux and Ubuntu: accounts, email, DNS, databases, backups and Git deploys, with every account isolated. One price per server.
 
+First released in October 2026 and updated since; every release is in the [changelog](https://docs.kypanel.com/changelog/).
+
 ### Repositories
 
 * [feedback](https://github.com/KyPanel/feedback): bug reports and feature requests
@@ -16,4 +18,6 @@ KyPanel runs shared and reseller hosting on AlmaLinux, Rocky Linux, CloudLinux a
 
 * Website: [kypanel.com](https://kypanel.com)
 * Docs: [docs.kypanel.com](https://docs.kypanel.com)
+* Changelog: [docs.kypanel.com/changelog](https://docs.kypanel.com/changelog/)
+* Security reports: [docs.kypanel.com/security](https://docs.kypanel.com/security/)
 * Support: [my.kypanel.com](https://my.kypanel.com/tickets/new)
